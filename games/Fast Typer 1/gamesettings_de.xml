@@ -1,0 +1,168 @@
+<?xml version='1.0' ?>
+<game>
+	<website>
+	</website>
+	<alphabet>
+    <!--
+     ENTER THE ALPHABETE YOUR LANGUAGE HAS, SUPPORTED CHARACTERS FOR NOW ARE:
+??ABCCCDÐEFGHIJKLMNOPQRSŠTUVWXYZŽabcccddefghijklmnopqrsštuvwxyzž1234567890‘?’“!”(%)[#]{@}/&<-+÷×=>®©$€£¥¢:;,.*
+
+	THESE LETTERS WILL BE SHOWN TO THE USER
+      -->
+		<hint id='correct_text'>Richtig!</hint>
+		<hint id='chapters_count'>16</hint>
+		<hint id='out_of_pictures_message'>Glückwunsch, du hast alle Fragen beantwortet!</hint>
+		<hint id='score'>Dein Ergebnis:</hint>
+	</alphabet>
+
+	<!-- YOUR NEW WORD COMES HERE
+	<chapter21>
+		<hint id='word'>WORD</hint>
+		<hint id='image1'>WORD1.jpg</hint>
+		<hint id='image2'>WORD2.jpg</hint>
+		<hint id='image3'>WORD3.jpg</hint>
+		<hint id='image4'>WORD4.jpg</hint>
+	</chapter21>  -->
+
+<chapter1>
+<hint id='question'>Wer gewann die meisten Weltmeisterschaften (fünf mal)?</hint>
+
+<hint id='answer1'>Deutschland</hint> 
+<hint id='answer2'>Brasilien</hint> 
+<hint id='answer3'>Italien</hint> 
+<hint id='answer4'>Argentinia</hint>
+<hint id='correct'>2</hint>
+</chapter1>
+<chapter2>
+<hint id='question'>Welcher Spieler hat die meisten Tore in einer Weltmeisterschaft geschoßen?</hint>
+<hint id='answer1'>Klose</hint> 
+<hint id='answer2'>Ronaldo</hint> 
+<hint id='answer3'>Messi</hint> 
+<hint id='answer4'>Pele</hint>
+<hint id='correct'>1</hint>
+</chapter2>
+<chapter3>
+<hint id='question'>Wer war der Gastgeber der Weltmeisterschaft 2010?</hint>
+<hint id='answer1'>Deutschland</hint> 
+<hint id='answer2'>Brasilien</hint> 
+<hint id='answer3'>Japan</hint> 
+<hint id='answer4'>Südafrika</hint> 
+<hint id='correct'>4</hint>
+</chapter3>
+<chapter4>
+<hint id='question'>Welches Land hat nie eine Weltmeisterschaft gewonnen und war dreimal zweiter?</hint>
+<hint id='answer1'>Schweden</hint> 
+<hint id='answer2'>Polen</hint> 
+<hint id='answer3'>Uruguay</hint> 
+<hint id='answer4'>Niederlande</hint>
+<hint id='correct'>4</hint>
+</chapter4>
+<chapter5>
+<hint id='question'>Welcher Spieler schoss zwei hattricks in zwei Weltmeisterschaften?</hint>
+
+<hint id='answer1'>Gerd Müller</hint> 
+<hint id='answer2'>Klose</hint> 
+<hint id='answer3'>Pele</hint> 
+<hint id='answer4'>Batistuta</hint>
+<hint id='correct'>4</hint>
+</chapter5>
+<chapter6>
+<hint id='question'>Wieviele Menschen schalteten bei der Weltmeisterschaft 2014 ein?</hint>
+<hint id='answer1'>128 Millionen</hint> 
+<hint id='answer2'>1.4 Milliarde</hint>.
+<hint id='answer3'>3.2 Milliarde</hint> 
+<hint id='answer4'>847 Millionen</hint> 
+<hint id='correct'>3</hint>
+</chapter6>
+<chapter7>
+<hint id='question'>Wer war der Gastgeber und ebenfalls der Gewinner der ersten Weltmeisterschaft 1930?</hint>
+
+<hint id='answer1'>Brasilien</hint> 
+<hint id='answer2'>Uruguay</hint> 
+<hint id='answer3'>Deutschland</hint> 
+<hint id='answer4'>England</hint>
+<hint id='correct'>2</hint>
+</chapter7>
+<chapter8>
+<hint id='question'>Welche Mannschaften gewannen zwei aufeinanderfolgende Titel?</hint>
+
+<hint id='answer1'>Brasilien &#38; Deutschland</hint> 
+<hint id='answer2'>Brasilien &#38; Italien</hint> 
+<hint id='answer3'>Argentina &#38; Deutschland</hint> 
+<hint id='answer4'>Uruguay &#38; Italien</hint>
+<hint id='correct'>2</hint>
+</chapter8>
+<chapter9>
+<hint id='question'>Welche Mannschaft hat die meisten Remis in der Geschichte (21)?</hint>
+
+<hint id='answer1'>Italien</hint> 
+<hint id='answer2'>Spanien</hint> 
+<hint id='answer3'>Russia</hint> 
+<hint id='answer4'>Mexico</hint>
+<hint id='correct'>1</hint>
+</chapter9>
+<chapter10>
+<hint id='question'>Welches Land hat sich am häufigsten qualifiziert ohne jemals die Trophäe zu erlangen?</hint>
+
+<hint id='answer1'>Polen</hint> 
+<hint id='answer2'>Mexico</hint> 
+<hint id='answer3'>Chile</hint> 
+<hint id='answer4'>Niederlande</hint>
+<hint id='correct'>2</hint>
+</chapter10>
+<chapter11>
+<hint id='question'>Welchest Land hat in 17 gespielten Spielen keinen Sieg erlangt?</hint>
+
+<hint id='answer1'>Tunesien</hint> 
+<hint id='answer2'>Australien</hint> 
+<hint id='answer3'>China</hint> 
+<hint id='answer4'>Bulgarien</hint>
+<hint id='correct'>4</hint>
+</chapter11>
+<chapter12>
+<hint id='question'>Welches war das am wenigsten bewohnte Land, welches an der WM teilgenommen hat (334.000)?</hint>
+
+<hint id='answer1'>Kuwait</hint>
+<hint id='answer2'>Trinidad &#38; Tobago</hint> 
+<hint id='answer3'>Nordirland</hint> 
+<hint id='answer4'>Island</hint> 
+<hint id='correct'>4</hint>
+
+</chapter12>
+<chapter13>
+<hint id='question'>Welches Land war am häufigsten auf dem zweiten Platz?</hint>
+
+<hint id='answer1'>Spanien</hint> 
+<hint id='answer2'>England</hint> 
+<hint id='answer3'>Deutschland</hint> 
+<hint id='answer4'>Frankreich</hint>
+<hint id='correct'>3</hint>
+</chapter13>
+<chapter14>
+<hint id='question'>Welches afrikanische Land hat sich am häufigsten quailifiziert (sechs mal)?</hint>
+
+<hint id='answer1'>Nigeria</hint> 
+<hint id='answer2'>Cameroon</hint> 
+<hint id='answer3'>Senegal</hint> 
+<hint id='answer4'>Morocco</hint>
+<hint id='correct'>1</hint>
+</chapter14>
+<chapter15>
+<hint id='question'>Wer war der älteste Torschütze aller Weltmeisterschaften (42)?</hint>
+
+<hint id='answer1'>Roger Milla</hint> 
+<hint id='answer2'>Ricardo Pelaez</hint> 
+<hint id='answer3'>Fernando Hierro</hint> 
+<hint id='answer4'>Lothar Matthäus</hint>
+<hint id='correct'>1</hint>
+</chapter15>
+<chapter16>
+<hint id='question'>Welche dieser Mannschaften gewann mehr als eine WM?</hint>
+
+<hint id='answer1'>England</hint> 
+<hint id='answer2'>Frankreich</hint> 
+<hint id='answer3'>Spanien</hint> 
+<hint id='answer4'>Uruguay</hint>
+<hint id='correct'>4</hint>
+</chapter16>
+</game>

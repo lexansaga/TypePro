@@ -1,0 +1,299 @@
+{
+	"Courses": {
+		"1_Home Row": {
+			"Introduction": "The first principle of touch typing is to always return your fingers to the <b>Home Row (A S D F for left fingers ( ( J K L ; for right fingers )</b> when you are not typing. The home row is the base point from which you will learn the positions of all the other keys. Most keyboards have small bumps on the <b>f</b> and <b>j</b> keys to help you find the home row without looking at the keys.",
+			"Objective": "Introduction to home keys and learn to type with right and left hand",
+			"1_The Right Hand": {
+				"Title": "The Right Hand",
+				"Lesson": "Home Row",
+				"Level": "Beginner",
+				"Content": [
+					"The home row keys for the right hand are: j k l ;",
+					"Place your right hand so that your index finger is positioned on j, your middle finger is on k, your ring finger is on l and your little finger is on ; (the semicolon key). Let your right thumb rest on the spacebar at the bottom of the keyboard.",
+					"Our first touch typing lesson introduces 2 home row keys for the right hand: j k",
+					"Typing Exercise left hand fingers (Position your Right hand according to the above image and start typing, use right thumb for space bar)jjj spacebar right thumb jjj spacebar jjj spacebar kkk…Start exercise.."
+				],
+				"Week": "1",
+				"Practice": [
+					"jjj jjj jjj jjj kkk kkk kkk kkk jjj kkk jjj kkk jjj kkk jkj jkj jkj jkj kjk kjk kjk kjk jjj jjj jjj kkk kkk kkk jk jk jk kj kj kj jj kk jk kj kj jk jj jk kk kjj jjj kkk kjk kjj kkj jkj jjk kjj kkj jkk kkk jjj kjk",
+					"lll lll lll lll ;;; ;;; ;;; ;;; lll ;;; lll ;;; lll ;;; l;l l;l l;l l;l ;l; ;l; ;l; lll lll lll ;;; ;;; ;;; l; l; ;l ;l ;l ll ;; l; ;l ;l ;l l; ll l; ;; ;l l l l l ; ; ; ; l ; ; l l ; ; l l;l ll; ;ll ;;l l;; ;;; lll ;l;",
+					"jjj jjj kkk kkk jjj kkk 111 111 ;;; ;;; lll ;;; jjj lll kkk ;;; kkk ;;; lll jjj:111 kkk jjj jkj jkj kjk kjk l;l l;l ;l; ;l; jkl ;jk l;j kl; jkl; j;k lj; kl jjj kkk lll ;;; jkj jlj j;j kjk klk k;k ljl lkl l;l jj jk jl j;kj kk klk;lj lk lll;;j;k;;"
+				],
+				"CourseID": "W001L001"
+			},
+			"2_The Left Hand": {
+				"Title": "The Left Hand",
+				"Lesson": "Home Row",
+				"Level": "Beginner",
+				"Content": [
+					"The home row keys for the Left hand are f d s a",
+					"Place your left hand so that your index finger is on f, your middle finger is on d, your ring finger is on s and your little finger in on a. Your thumb can rest on the spacebar. We will begin with the first ",
+					"2 left hand keys: <strong> f d. Type fff spacebar(left thumb)fff spacebar ddd  <strong>"
+				],
+				"Week": "1",
+				"Practice": [
+					"fff fff fff fff ddd ddd ddd ddd fff ddd fff ddd fff ddd fdf fdf fdf fdf dfd dfd dfd dfd fff fff fff ddd ddd ddd fd fd fd df df df ff dd fd df df fd ff fd dd df f f f f d d d d f d d f f d d f fdf ffd dff ddf fdd ddd fff dfd",
+					"sss sss sss sss aaa aaa aaa aaa sss aaa sss aaa sss aaa sas sas sas sas asa asa asa asa sss sss sss aaa aaa aaa sa sa sa as as as ss aa sa as as sa ss sa aa ass sss aaa asa ass aas sas ssa aas saa aaa sss asa",
+					"fff fff ddd ddd fff ddd sss sss aaa aaa sss aaa fff sss ddd aaa ddd aaa sss fff aaa sss ddd fff fdf fdf dfd dfd sas sas asa asa f d s a f d s a fdsa fdsa fads fads fff ddd sss aaa fdf fsf faf dfd dsd dad sfs sds sas ff fd fs fa df dd ds da sf sd ss sa of ad as aa"
+				],
+				"CourseID": "W001L002"
+			},
+			"3_Both Hands": {
+				"Title": "Both Hands",
+				"Lesson": "Home Row",
+				"Level": "Intermediate",
+				"Content": [
+					"The following typing exercise combines all the keys we have learned so far: <strong> j k l ; f d s a</strong>"
+				],
+				"Week": "1",
+				"Practice": [
+					"jjj fff jjj fff jjj fff kkk ddd kkk ddd kkk ddd lll sss lll sss lll sss ;;; aaa ;;; aaa ;;; aaa jkl; jkl; jkl; fdsa fdsa fdsa jjj kkk lll ;;; fff ddd sss aaa jfj jfj jfj jkj jkj jkj kdk kdk kdk kjk kjk kjk l;l l;l l;l ;l; ;l; ;l; fdf fdf fdf dfd dfd dfd sas sas sas asa asa asa"
+				],
+				"CourseID": "W001L003"
+			},
+			"4_H and G": {
+				"Title": "H and G",
+				"Lesson": "Home row",
+				"Level": "Intermediate",
+				"Content": [
+					"The keys we have covered so far can all be typed without moving your fingers from the home row position. Now it is time to learn how to move your fingers off the home row to reach the <b>h</b> and <b>g</b> keys. To reach these new keys, you will need to move your index fingers to the sides. Practice extending your right index finger to the left to hit the <b>h</b> key. Then try reaching to the right with your left index finger for the <b>g</b> key. Afterwards, always remember to return your fingers to the home keys."
+				],
+				"Week": "1",
+				"Practice": [
+					"hhh hhh hhh hhh ggg ggg ggg ggg hhh ggg hhh ggg hhh ggg hgh hgh hgh hgh ghg ghg ghg ghg hhh hhh hhh ggg ggg ggg hg hg hg gh gh gh hh gg hg gh gh hg hh hg gg gh h h h h g g g g h g g h h g g h hgh hhg ghh ggh hgg ggg hhh ghg",
+					"hhh hhh ggg ggg hhh ggg jjj jjj fff fff jjj fff hhh jjj ggg fff ggg fff jjj hhh fff jjj ggg hhh hgh hgh ghg ghg jfj jfj fjf fjf h g j f h g j f hgjf hgjf hfgj hfgj hhh ggg jjj fff hgh hjh hfh ghg gjg gfg jhj jgj jfj hh hg hj hf gh gg gj gf jh jg jj jf fh fg fj ff"
+				],
+				"CourseID": "W001L004"
+			},
+			"5_All together": {
+				"Title": "All together",
+				"Lesson": "Home Row",
+				"Level": "Advance",
+				"Content": [
+					"Congratulations! You have learned to type the home row and covered more than a third of the alphabet! Let's practice the exercise below."
+				],
+				"Week": "1",
+				"Practice": [
+					"",
+					"",
+					""
+				],
+				"CourseID": "W001L005"
+			}
+		},
+		"2_Top Row": {
+			"Introduction": "Congratulations! On completing <b>week 1 and lesson 1!</b> Now you are a master on the home row! Now you are ready to type the top row! Please remember to keep your finger always on the home keys before starting the typing. You move your fingers from home keys to upwards, downwards, left and right side to type.",
+			"Objective": "To know the “Top Row and Keys” and learn to type with Index, Middle, Ring, and Little fingers of both hands. ",
+			"1_Index Finger Keys": {
+				"Title": "Index Finger Keys",
+				"Lesson": "Top Row",
+				"Level": "Beginner",
+				"Content": [
+					"We will start the lesson by learning the two keys above your left and right index fingers: <b>u</b> <b>r</b>"
+				],
+				"Week": "2",
+				"Practice": [
+					"uuu uuu uuu uuu rrr rrr rrr rrr uuu rrr uuu rrr uuu rrr uru uru uru uru rur rur rur rur uuu uuu uuu rrr rrr rrr ur ur ur ru ru ru uu rr ur ru ru ur uu ur rr ruu uu ur rr ru rr uu rr uu ru uur ruu rru urr rrr uuu rur",
+					"uuu uuu rrr rrr uuu rrr jjj uuu jjj uuu fff rrr fff rrr juj juj frf frf uju uju rfr rfr ara ara srs srs frf frf drd drd yrg yry hrh hrh jrj jrj lrl lrl ;r; ;r; aua aua sus sus dud dud fuf fuf guy yug huh huh juj juj kuk kuk 1u1 lul ;u; ;u;"
+				],
+				"CourseID": "W002L001"
+			},
+			"2_Middle Finger Keys": {
+				"Title": "Middle Finger Keys",
+				"Lesson": "Top Row",
+				"Level": "Beginner",
+				"Content": [
+					"Great job! Let's move on to the two keys above your left and right middle fingers: <b>i e</b>"
+				],
+				"Week": "2",
+				"Practice": [
+					"iii iii iii iii eee eee eee eee iii eee iii eee iii eee iei iei iei iei eie eie eie eie iii iii iii eee eee eee ie ie ie ei ei ei ii ee ie ei ei ie ii ie ee ei i i i i e e e e i e e i i e e i iei iie eii eei iee eee iii eie",
+					"iii iii eee eee iii eee kkk iii kkk iii ddd eee ddd eee kik kik ded ded iki iki ede ede aea aea ses ses ded ded fef fef geg geg heh heh jej jej kek kek lel lel ;e; aia aia sis sis did did fif fif gig gig hih hih jij jij kik kik 111 lil ;i; ;i;",
+					"kid red did rid fed riff kidder udder rudder sir ire ide use fuse ruse hid gig lure lug lid dill frill drill file side kiss less jug jerk desk disk ask ark aid all fail fake rake sake lake jake age usage lids slid slide laid reads fare luge slider shake shade gads gags sage shares"
+				],
+				"CourseID": "W002L002"
+			},
+			"3_Ring Finger Keys": {
+				"Title": "Ring Finger Keys",
+				"Lesson": "Top Row",
+				"Level": "Beginner",
+				"Content": [
+					"Time to learn the ring finger keys: o w"
+				],
+				"Week": "2",
+				"Practice": [
+					"ooo ooo ooo ooo www www www www ooo www ooo www ooo www owo owo owo owo wow wow wow wow ooo ooo ooo www www www. ow ow ow wo wo wo oo ww ow wo wo ow oo ow ww wo o o o owwwwowwo onto owo oow woo wwo oww www ooo wow ",
+					"ooo ooo www www ooo www lll ooo lll ooo sss 'www sss www lol lol sws sws olo olo wSw wsw awa awa sws sws dwd dwd fwf fwf gwg gwg hwh hwh jwj jwj kwk kwk lwl lwl ;w; ;w; aoa aoa sos sos dod dod fof fof gog gog hoh hoh joj joj kok kok lol lol ;o; ;o;"
+				],
+				"CourseID": "W002L003"
+			},
+			"4_Little Finger Keys": {
+				"Title": "Little Finger Keys",
+				"Lesson": "Top Row",
+				"Level": "Beginner",
+				"Content": [
+					"Almost done! Let's learn the little finger keys: <b>p q</b>"
+				],
+				"Week": "2",
+				"Practice": [
+					"rpp ppp ppp ppp qqq qqq qqq qqq ppp qqq ppp qqq ppp qqq pqp pqp pqp pqp qpq qpq qpq qpq ppp ppp ppp qqq qqq qqq pq pq pq qp qp qp pp qq pq qp qp pq pp pq qq qpp ppp qqq qpq qpp qqp  ppq qpp qqp pqq qqq ppp qpq",
+					"ppp ppp qqq qqq ppp qqq ;;; ppp ;;; ppp aaa qqq aaa qqq ;p; ;p; aqa aqa p;p p;p qaq qaq aqa aqa sqs sqs dqd dqd fqf fqf gqg gqg hqh hqh jqj jqj kqk kqk lql lql ;q; ;q; apa apa sps sps dpd dpd fpf fpf gpg gpg hph hph jpj jpj kpk kpk 1pl 1pl ;p; ;p;"
+				],
+				"CourseID": "W002L004"
+			},
+			"5_Y and T keys": {
+				"Title": "Y and T keys",
+				"Lesson": "Top Row",
+				"Level": "Intermediate",
+				"Content": [
+					"The y and t keys are the final 2 top row keys. You will reach these keys by moving your index fingers up and to the side. Practice extending your right index finger up and to the left to hit the y key. Then try reaching up and to the right with your left index finger for the t key."
+				],
+				"Week": "2",
+				"Practice": [
+					"yyy yyy yyy yyy ttt ttt ttt ttt yyy ttt yyy ttt yyy ttt yty yty yty yty tyt tyt tyt tyt yyy yyy yyy ttt ttt ttt yt yt yt ty ty ty yy tt yt ty ty yt yy yt tt ty y y y y t t t t y t t y y t t y yty yyt tyy tty ytt ttt yyy tyt",
+					"yyy yyy ttt ttt yyy ttt ;;; yyy ;;; yyy aaa ttt aaa ttt ;y; ;y; ata ata y;y y;y tat tat ata ata sts sts dtd dtd ftf ftf gtg gtg hth hth jtj jtj ktk ktk lt1 lt1 ;t; ;t; aya aya sys sys dyd dyd fyf fyf gyg gyg hyh hyh jyj jyj kyk kyk lyl lyl ;y; ;y;"
+				],
+				"CourseID": "W002L005"
+			},
+			"6_Typing Simple Words": {
+				"Title": "Typing Simple Words",
+				"Lesson": "Top Row",
+				"Level": "Advance",
+				"Content": [
+					"Fantastic! You have now covered more than two thirds of the alphabet! Let's put all those letters to use and work on typing some words.",
+					"",
+					""
+				],
+				"Week": "1",
+				"Practice": [
+					"the four lads stood quietly atop the tower; pear salad is a great quirky dish; plaid dads play golf; slide the glass to your good pal; we gladly yapped for two hours; wade through the water to us; either of us will go; we used our gold goose eggs well; let us do tea for two; go forward to the other side; other ghosts will spook us; the riders had quite a lot of leg power; you see how easy it is to type the top row; a little further to go yet; i wish i had read the flyer fully; read it for us please; joe sipped jade tea jealously; kate flew her fast kite sky high;"
+				],
+				"CourseID": "W002L006"
+			}
+		},
+		"3_Bottom Row": {
+			"Introduction": "You are almost done with the basic keys! It is time to learn to type the bottom row.",
+			"Objective": "Be able to type last two Bottom Row keys",
+			"1_Index Finger Keys": {
+				"Title": "Index Finger Keys",
+				"Lesson": "Bottom Row",
+				"Level": "Beginner",
+				"Content": [
+					"We will begin by learning to type the two keys below your right and left index fingers: <b>m v</b>"
+				],
+				"Week": "3",
+				"Practice": [
+					"mmm mmm mmm mmm vvv vvv vvv vvv mmm vvv mmm vvv mmm vvv mvm mvm mvm mvm vmv vmv vmv vmv mmm mmm mmm vvv vvv vvv my my my vm vm vm mm vv my vm vm my mm my vv vm m m m m v v v v m v v m m v v m mvm mmv vmm vvm mvv vvv mmm vmv",
+					"mmm mmm vvv vvv mmm vvv jjj mmm jjj mmm fff vvv fff vvv jmj jmj fvf fvf mjm mjm vfv vfv ava ava sys sys dvd dvd fvf fvf gvg gvg hvh hvh jvj jvj lvl lvl ;v; ;v; ama ama sms sms dmd dmd fmf fmf gmg gmg hmh hmh jmj jmj kmk kmk lml lml ;m; ;m;"
+				],
+				"CourseID": "W003L001"
+			},
+			"2_Middle Finger Keys": {
+				"Title": "Middle Finger Keys",
+				"Lesson": "Bottom Row",
+				"Level": "Beginner",
+				"Content": [
+					"Now let's learn to type the two keys below your middle fingers: <b>, c</b>"
+				],
+				"Week": "3",
+				"Practice": [
+					"„, „, „, „, ccc ccc ccc ccc „, ccc „, ccc „, ccc ,c„c„c„c, c,c c,c c,c c,c „, „, „, ccc ccc ccc ,c ,c ,c c, c, c, „ cc ,c c, c„c „ ,c cc c„ „ ,cccc,cc„cc„c, „c c„ cc, cc ccc ,„ c,c",
+					"„, ccc ccc „, ccc kkk „, kkk ,„ ddd ccc ddd ccc k,k k,k dcd dcd ,k, ,k, cdc cdc aca aca scs scs dcd dcd fcf fcf gcg gcg hch hch jcj jcj kck kck lcl lcl ;c; ;c; a,a a,a s,s s,s d,d d,d f,f f,f g,g g,g h,h h,h j,j j,j k,k k,k l,l l,l ;,; ;,;"
+				],
+				"CourseID": "W003L002"
+			},
+			"3_Ring Finger Keys": {
+				"Title": "Ring Finger Keys",
+				"Lesson": "Bottom Row",
+				"Level": "Beginner",
+				"Content": [
+					"It's time to learn the ring finger keys: . x"
+				],
+				"Week": "3",
+				"Practice": [
+					"xxx xxx xxx xxx ... xxx ... xxx ... xxx x x x x x.x x.x x.x x.x ... xxx xxx xxx .x .x .x x. x. x. .. xx .x x. x. .x xx x  xxxx.xx. .xx. .x. ..x x.. xx. .xx xxx ... x.x "
+				],
+				"CourseID": "W003L003"
+			},
+			"4_Little Finger": {
+				"Title": "Little Finger",
+				"Lesson": "Bottom Row",
+				"Level": "Beginner",
+				"Content": [
+					"Now for the pinky finger keys: / z"
+				],
+				"Week": "3",
+				"Practice": [
+					"/// /// /// /// zzz zzz zzz zzz /// zzz /// zzz /// zzz /z/ /z/ /z/ /z/ z/z z/z z/z z/z /// /// /// zzz zzz zzz /z /z /z z/ z/ z/ // zz /z z/ z/ /z // /z zz z/ / / / / z z z z / z z / / z z / /z/ //z z// zz/ /zz zzz /// z/z ",
+					"/// /// zzz zzz /// zzz ;;; /// ;;; /// aaa zzz aaa zzz ;/; ;/; aza aza /;/ /;/ zaz zaz aza aza szs szs dzd dzd fzf fzf gzg gzg hzh hzh jzj jzj kzk kzk lzl lzl ;z; ;z; a/a a/a s/s s/s d/d d/d f/f f/f g/g g/g h/h h/h j/j j/j k/k k/k l/l l/l ;/; ;/;"
+				],
+				"CourseID": "W003L004"
+			},
+			"5_n an b": {
+				"Title": "n an b",
+				"Lesson": "Bottom Row",
+				"Level": "Intermediate",
+				"Content": [
+					"The <b>n</b> and <b>b</b> keys are the final 2 bottom row keys. You will reach these keys by moving your index fingers down and to the side. Practice extending your right index finger down and to the left to hit the <b>n</b> key. Then try reaching down and to the right with your left index finger for the <b>b</b> key."
+				],
+				"Week": "3",
+				"Practice": [
+					"nnn nnn nnn nnn bbb bbb bbb bbb nnn bbb nnn bbb nnn bbb nbn nbn nbn nbn bnb bnb bnb bnb nnn nnn nnn bbb bbb bbb nb nb nb bn bn bn nn bb nb bn bn nb nn nb bb bn n n n n b b b b n b b n n b b n nbn nnb bnn bbn nbb bbb nnn bnb",
+					"nnn nnn bbb bbb nnn bbb ;;; nnn ;;; nnn aaa bbb aaa bbb ;n; ;n; aba aba n;n n;n bab bab aba aba sbs sbs dbd dbd fbf fbf gbg gbg hbh hbh jbj jbj kbk kbk lbl lbl ;b; ;b; ana ana sns sns dnd dnd fnf fnf gng gng hnh hnh jnj jnj knk knk lnl lnl ;n; ;n;"
+				],
+				"CourseID": "W003L005"
+			},
+			"6_Typing with words": {
+				"Title": "Typing with words",
+				"Lesson": "Bottom Row",
+				"Level": "Advance",
+				"Content": [
+					"Congratulations! You have learned to type all the letters in the alphabet, as well as basic punctuation keys. Let's put them all together!"
+				],
+				"Week": "3",
+				"Practice": [
+					"zebras are not exactly known for being quiet animals. she/he would very likely just play along for a while. you can make quite a lot of lemon zes with even larger sized lemons; please cover each plate. six foxes quickly woke axel; just in time. i caught five jelly fish, six octopus and two SE urchins for my buddy ben. eight / six is exactly equal to four / three"
+				],
+				"CourseID": "W003L006"
+			}
+		},
+		"4_Capital Letters": {
+			"Introduction": "Now that you know all the letter keys, let's learn to type them in capitals. To type the capital case of any letter, hold down the <b>shift</b> key while typing the letter key. You will notice there are two <b>shift</b> keys on your keyboard - one on each side. You should press the <b>shift</b> key with either left or right hand little finger.",
+			"Objective": "Be able to type Capital Letter Keys with Left Hand",
+			"1_Right Hand Capital Letter": {
+				"Title": "Right Hand Capital Letter",
+				"Lesson": "Capital Letters",
+				"Level": "Beginner",
+				"Content": ["We will begin typing capital letters with the right hand while using the left <b>shift</b> key."],
+				"Week": "4",
+				"Practice": [
+					"JJJ JJJ JJJ KKK KKK KKK LLL LLL LLL JjJ JjJ JjJ KkK KkK KkK L1L L1L L1L Jjj Jjj Jjj Kkk Kkk Kkk L11 L11 L11 HHH HHH HHH HhH HhH HhH Hhh Hhh Hhh UUU UUU UUU III III III 000 000 000 PPP PPP PPP UuU UuU UuU III III Ill 000 000 000 PpP PpP PpP Uuu Uuu Uuu Iii Iii Iii Ooo Ooo Ooo Ppp Ppp Ppp YYY YYY YYY YyY YyY YyY Yyy Yyy Yyy MMM MMM MMM MmM MmM MmM Mmm Mmm Mmm NNN NNN NNN NnN NnN NnN Nnn Nnn Nnn"
+				],
+				"CourseID": "W004L001"
+			},
+			"2_Left Hand Capital Letters": {
+				"Title": "Left Hand Capital Letters",
+				"Lesson": "Capital Letters",
+				"Level": "Intermediate",
+				"Content": ["Now let's practice typing left hand letters with the right <b>shift</b> key."],
+				"Week": "4",
+				"Practice": [
+					"FFF FFF FFF DDD DDD DDD SSS 555 SSS AAA AAA AAA FfF FfF FfF DdD DdD DdD SsS SsS SsS AaA AaA AaA Fff Fff Fff Ddd Ddd Ddd Sss Sss Sss Aaa Aaa Aaa GGG GGG GGG GgG GgG GgG Ggg Ggg Ggg RRR RRR RRR EEE EEE EEE WWW WWW WWW QQQ QQQ QQQ RrR RrR RrR EeE EeE EeE WwW WwW WwW QqQ QqQ QqQ Rrr Rrr Rrr Eee Eee Eee Www Www Www Qqq Qqq Qqq TTT TTT TTT TtT TtT TtT Ttt Ttt Ttt VVV VVV VVV CCC CCC CCC XXX XXX XXX ZZZ ZZZ ZZZ VvV VvV VvV CcC CcC CcC XxX XxX XxX ZzZ ZzZ ZzZ Vvv Vvv Vvv Ccc Ccc Ccc Xxx Xxx Xxx Zzz Zzz Zzz BBB BBB BBB BbB BbB BbB Bbb Bbb Bbb"
+				],
+				"CourseID": "W004L002"
+			},
+			"3_Capital Letters on Both Hands": {
+				"Title": "Capital Letters on Both Hands",
+				"Lesson": "Capital Letters",
+				"Level": "Advance",
+				"Content": ["Let's put both hands together and practice switching between left and right hand shift keys."],
+				"Week": "4",
+				"Practice": [
+					"WOW. Four Jacks And One Queen, I Win. Please Do Not Go Up There Now. Zack Needs MORE Caramel Kettle Corn ASAP. Nobody Even HAS Any Purple Vests. Xavier Let Seventy Yellow BEES Into Our Cabin. YIKES. Good Lemons Are HARD To Pick. Do Not Watch Karen; She Is VERY Nervous."
+				],
+				"CourseID": "W004L003"
+			}
+
+		}
+	}
+}

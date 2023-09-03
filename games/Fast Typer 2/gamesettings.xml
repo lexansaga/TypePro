@@ -1,0 +1,87 @@
+<?xml version='1.0' ?>
+<game>
+	<website>
+	</website>
+	<alphabet>
+    <!--
+     ENTER THE ALPHABETE YOUR LANGUAGE HAS, SUPPORTED CHARACTERS FOR NOW ARE:
+??ABCCCDÐEFGHIJKLMNOPQRSŠTUVWXYZŽabcccddefghijklmnopqrsštuvwxyzž1234567890‘?’“!”(%)[#]{@}/&<-+÷×=>®©$€£¥¢:;,.*
+
+	THESE LETTERS WILL BE SHOWN TO THE USER
+      -->		
+	   <hint id='start_screen'>Start</hint>
+		<hint id='correct_text'>Correct!</hint>
+		<hint id='chapters_count'>16</hint>
+		<hint id='out_of_pictures_message'>Congratulations, You solved all questions!</hint>
+		<hint id='score'>Your Score:</hint>
+	</alphabet>
+
+	<!-- YOUR NEW WORD COMES HERE
+	<chapter21>
+		<hint id='word'>WORD</hint>
+		<hint id='image1'>WORD1.jpg</hint>
+		<hint id='image2'>WORD2.jpg</hint>
+		<hint id='image3'>WORD3.jpg</hint>
+		<hint id='image4'>WORD4.jpg</hint>
+	</chapter21>  -->
+
+<chapter1>
+<hint id='word'>wonderful</hint>
+</chapter1>
+<chapter2>
+<hint id='word'>monkey</hint>
+</chapter2>
+<chapter3>
+<hint id='word'>animal</hint>
+</chapter3>
+<chapter4>
+<hint id='word'>tourist</hint>
+</chapter4>
+<chapter5>
+<hint id='word'>boxer</hint>
+
+</chapter5>
+<chapter6>
+<hint id='word'>washington</hint>
+
+</chapter6>
+<chapter7>
+<hint id='word'>camper</hint>
+
+</chapter7>
+<chapter8>
+<hint id='word'>guitar</hint>
+
+</chapter8>
+<chapter9>
+<hint id='word'>peace</hint>
+
+</chapter9>
+<chapter10>
+<hint id='word'>airplane</hint>
+
+</chapter10>
+<chapter11>
+<hint id='word'>awake</hint>
+
+</chapter11>
+<chapter12>
+<hint id='word'>catapult</hint>
+
+</chapter12>
+<chapter13>
+<hint id='word'>atom</hint>
+
+</chapter13>
+<chapter14>
+<hint id='word'>treehouse</hint>
+
+</chapter14>
+<chapter15>
+<hint id='word'>friday</hint>
+
+</chapter15>
+<chapter16>
+<hint id='word'>question</hint>
+</chapter16>
+</game>
